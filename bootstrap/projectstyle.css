@@ -134,3 +134,21 @@ header{
     color: aqua;
 }
 /* About Me Section Ends Here */
+
+
+/* Tutorial Section Starts Here */
+#tutorial{
+    padding: 4% 10%;
+    background: #A3D2CA;
+}
+
+.card{
+    transition: 0.4s;
+    border: 1px solid #FF02C0;
+}
+
+.card:hover{
+    transform: scale(1.1);
+    box-shadow: 2px 6px 5px black;
+}
+/* Tutorial Section Ends Here */
