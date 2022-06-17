@@ -173,3 +173,16 @@ header{
     margin-bottom: 5px;
 }
 /* Feedback Section Ends Here */
+
+
+/* Contact Me Section Starts Here */
+#contactMe{
+    padding: 2% 10%;
+    background: #348f8c;
+}
+
+.form-group label{
+    margin-bottom: 0px;
+    font-weight: bold;
+}
+/* Contact Me Section Ends Here */
