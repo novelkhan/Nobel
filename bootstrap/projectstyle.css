@@ -186,3 +186,33 @@ header{
     font-weight: bold;
 }
 /* Contact Me Section Ends Here */
+
+
+
+/* Footer Section Starts Here */
+footer{
+    padding: 1% 10%;
+    background: #056676;
+}
+
+footer a{
+    color: white;
+    margin: 0px 10px;
+}
+
+footer a:hover{
+    color: black;
+}
+/* Footer Section Ends Here */
+
+
+
+@media (max-width: 768px){
+    .nav-link{
+        background: rgba(0, 0, 0, 0.7);
+    }
+
+    .bannerContainer h1{
+        font-size: 2.5rem;
+    }
+}
